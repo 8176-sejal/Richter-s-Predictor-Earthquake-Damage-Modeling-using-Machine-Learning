@@ -1,0 +1,1 @@
+# Richter-s-Predictor-Earthquake-Damage-Modeling-using-Machine-Learning
